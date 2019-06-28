@@ -4,3 +4,5 @@ Use pneumonia Image in Deep Learning &amp; Grad Cam &amp; Grad Cam ++
 ### VGG 16 Weights is using keras vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
 
 Image resource Kaggle URL : https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+
+Use image split to split the dicom image into pneumonia dataset.
